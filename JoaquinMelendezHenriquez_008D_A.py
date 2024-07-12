@@ -116,7 +116,6 @@ def ver_estadisticas():
     print(f'Sueldo más alto: ${sueldoMasAlto}')
     print(f'Sueldo más bajo: ${sueldoMasBajo}')
     print(f'Promedio de sueldos: ${promedioSueldos}')
-    print(f'Media geométrico: ?')
 
     print("")
     input("Pulse ENTER para continuar")
